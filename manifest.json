@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Laravel Documentation Search",
+    "version": "1.0",
+    "omnibox": { "keyword" : "laravel" },
+    "background": {
+    	"scripts": ["background.js"]
+  	},
+    "icons": {
+        "16": "icon.ico"
+    }
+}
